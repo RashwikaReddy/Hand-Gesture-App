@@ -1,0 +1,16 @@
+h1{
+    color:forestgreen;
+}
+body{
+    background:linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
+    text-align: center;
+    margin:10px;
+}
+#camera , #result
+{
+  border: 4px dotted black;
+  width: 350px;
+  height: 300px; 
+  border-radius:15px;
+  margin: auto;
+}
